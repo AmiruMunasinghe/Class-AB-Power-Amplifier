@@ -70,7 +70,7 @@ Based on the values in the schematics and documentation, we note the following c
 | **Emitter Resistors ($R_{21}, R_{22}$)** | $0.22\ \Omega$ | $0.5\ \Omega$ |
 | **Speaker Load ($R_{24}$)** | $4\ \Omega$ | $8\ \Omega$ |
 
-*Note: The schematic implemented in this repository represents an optimized configuration designed for higher voltage gain ($32.26\text{ dB}$) and lower emitter degeneration resistor losses ($0.22\ \Omega$), maximizing power delivery to a $4\ \Omega$ load.*
+
 
 ### Output Swing Limits
 Although an ideal push-pull amplifier swings from rail to rail ($\pm 15\text{ V}$), the maximum unclipped peak output voltage is limited by:

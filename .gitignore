@@ -1,0 +1,11 @@
+# System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# LTspice simulation temporary files
+*.raw
+*.log
+*.op.raw
+*.net
+.git/

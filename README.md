@@ -63,10 +63,10 @@ Based on the values in the schematics and documentation, we note the following c
 
 | Parameter / Component | Schematic Design (This Repo) | Project Report Text |
 | :--- | :--- | :--- |
-| **Feedback Resistor ($R_{26}$)** | $40	ext{ k}\Omega$ | $22	ext{ k}\Omega$ |
-| **Gain Shunt Resistor ($R_{25}$)** | $1	ext{ k}\Omega$ | $1	ext{ k}\Omega$ |
-| **Theoretical AC Gain ($A_v$)** | $41\text{ V/V}\ (32.26	ext{ dB})$ | $23\text{ V/V}\ (27.2	ext{ dB})$ |
-| **Miller Capacitor ($C_7$)** | $100	ext{ pF}$ | $39	ext{ pF}$ |
+| **Feedback Resistor ($R_{26}$)** | $40	text{ k}\Omega$ | $22	text{ k}\Omega$ |
+| **Gain Shunt Resistor ($R_{25}$)** | $1	text{ k}\Omega$ | $1	text{ k}\Omega$ |
+| **Theoretical AC Gain ($A_v$)** | $41\text{ V/V}\ (32.26	text{ dB})$ | $23\text{ V/V}\ (27.2	text{ dB})$ |
+| **Miller Capacitor ($C_7$)** | $100	text{ pF}$ | $39	text{ pF}$ |
 | **Emitter Resistors ($R_{21}, R_{22}$)** | $0.22\ \Omega$ | $0.5\ \Omega$ |
 | **Speaker Load ($R_{24}$)** | $4\ \Omega$ | $8\ \Omega$ |
 
